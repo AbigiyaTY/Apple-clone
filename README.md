@@ -10,7 +10,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://github.com/AbigiyaTY/Apple-clone.git/)
+[Live Demo Link](https://apple-clone-by-abigiya.netlify.app/)
 
 
 ## Getting Started
