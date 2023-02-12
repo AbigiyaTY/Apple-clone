@@ -2,6 +2,9 @@
 
 > The Apple website is a clone of the Apple website that uses live data from the Apple website API to display the company's latest news.
 
+![image](https://user-images.githubusercontent.com/98043302/218338687-c5e73456-7936-4abc-b8f5-bb955b754d3f.png)
+
+
 ## Built With
 
 - Major languages: HTML, CSS, JavaScript.
