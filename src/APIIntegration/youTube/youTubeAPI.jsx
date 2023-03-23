@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from "react";
 import "./youTube.css"
-// import config from "./config";
 
 const Youtubeapi = () => {
   const [youTubeVideos, setVideo] = useState([]);
