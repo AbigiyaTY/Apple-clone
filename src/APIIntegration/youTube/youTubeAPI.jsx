@@ -5,7 +5,7 @@ const Youtubeapi = () => {
   const [youTubeVideos, setVideo] = useState([]);
 
       useEffect(() => {
-          fetch("https://www.googleapis.com/youtube/v3/search?key=AIzaSyBVNeeA6NT66uI-rZicJdPgqkKIjO3K12I&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=9")
+          fetch("https://www.googleapis.com/youtube/v3/search?key=your-api-key")
           .then((response) => response.json())
           .then((data) => {
               const youTubeVideosData = data.items;
