@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 * VS code editor
-* web browswe(chrome Firefox Opera etc)
+* web browswe(chrome, Firefox, Opera etc)
 
 ### Install
 * Git 
